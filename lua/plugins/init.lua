@@ -13,6 +13,10 @@ return {
     end,
   },
 
+  {
+    "simrat39/rust-tools.nvim"
+  },
+
   -- {
   -- 	"nvim-treesitter/nvim-treesitter",
   -- 	opts = {
